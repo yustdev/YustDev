@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 38.87952%;" class="progress-item"></span><span style="background-color: #3178c6;width: 22.04393%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 20.52128%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 15.17654%;" class="progress-item"></span><span style="background-color: #41b883;width: 3.22083%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.15790%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 38.88007%;" class="progress-item"></span><span style="background-color: #3178c6;width: 22.04524%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 20.52158%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 15.17434%;" class="progress-item"></span><span style="background-color: #41b883;width: 3.22088%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.15790%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -174,7 +174,7 @@ div.ellipsis {
                         TypeScript
                     </span>
                     <span class="percent">
-                        22.044%
+                        22.045%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -193,7 +193,7 @@ div.ellipsis {
                         PHP
                     </span>
                     <span class="percent">
-                        20.521%
+                        20.522%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
@@ -212,7 +212,7 @@ div.ellipsis {
                         JavaScript
                     </span>
                     <span class="percent">
-                        15.177%
+                        15.174%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
