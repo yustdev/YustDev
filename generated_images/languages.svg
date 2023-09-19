@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 37.01834%;" class="progress-item"></span><span style="background-color: #3178c6;width: 26.11118%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 19.33458%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 14.26303%;" class="progress-item"></span><span style="background-color: #41b883;width: 3.12410%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.14877%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 37.01960%;" class="progress-item"></span><span style="background-color: #3178c6;width: 26.10794%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 19.33524%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 14.26424%;" class="progress-item"></span><span style="background-color: #41b883;width: 3.12421%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.14877%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -155,7 +155,7 @@ div.ellipsis {
                         Java
                     </span>
                     <span class="percent">
-                        37.018%
+                        37.020%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -174,7 +174,7 @@ div.ellipsis {
                         TypeScript
                     </span>
                     <span class="percent">
-                        26.111%
+                        26.108%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -212,7 +212,7 @@ div.ellipsis {
                         JavaScript
                     </span>
                     <span class="percent">
-                        14.263%
+                        14.264%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
