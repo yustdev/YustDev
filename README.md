@@ -1,30 +1,30 @@
-# Bem-vindo ao meu GitHub!
+# Welcome to my GitHub!
 
-Olá! Eu sou **Yust**, um programador especializado em desenvolvimento para **Habbo**. Neste espaço, compartilho meus projetos e contribuições relacionadas ao universo de Habbo, além de outras iniciativas que podem ser de interesse para a comunidade de desenvolvedores.
+Hello! I am **Specter**, a programmer specializing in development for **Habbo**. In this space, I share my projects and contributions related to the Habbo universe, as well as other initiatives that may be of interest to the developer community.
 
-## Sobre Mim
+## About me
 
-- **Nome:** Yust
-- **Especialidade:** Desenvolvimento para Habbo
-- **Experiência:** Tenho uma vasta experiência em criar e personalizar servidores Habbo, desenvolvendo ferramentas e recursos que aprimoram a experiência dos usuários.
+- **Name:** Specter
+- **Specialty:** Development for Habbo
+- **Experience:** I have extensive experience in creating and customizing Habbo servers, developing tools and resources that improve users' experience.
 
-## Projetos
+## Projects
 
-Aqui estão alguns dos projetos que você encontrará no meu GitHub:
+Here are some of the projects you'll find on my GitHub:
 
-1. **Servidor Habbo Personalizado:**
-   - Um servidor Habbo customizado com recursos exclusivos e melhorias contínuas.
+1. **Custom Habbo Server:**
+ - A customized Habbo server with exclusive features and continuous improvements.
 
-2. **Ferramentas para Habbo:**
-   - Scripts e utilitários para facilitar a administração e a personalização de servidores Habbo.
+2. **Tools for Habbo:**
+ - Scripts and utilities to facilitate administration and customization of Habbo servers.
 
-3. **Tutoriais e Guias:**
-   - Documentação detalhada e guias passo a passo para ajudar outros desenvolvedores a começarem com desenvolvimento para Habbo.
+3. **Tutorials and Guides:**
+ - Detailed documentation and step-by-step guides to help other developers get started with Habbo development.
 
-## Como Contribuir
+## How to Contribute
 
-Estou sempre aberto a colaborações e novas ideias! Se você tem sugestões, melhorias ou deseja contribuir com algum projeto, sinta-se à vontade para abrir um _pull request_ ou entrar em contato comigo.
+I'm always open to collaborations and new ideas! If you have suggestions, improvements or want to contribute to a project, feel free to open a _pull request_ or contact me.
 
-## Agradecimentos
+## Thanks
 
-Obrigado por visitar meu GitHub! Fique à vontade para explorar meus repositórios e não hesite em entrar em contato se tiver alguma dúvida ou quiser bater um papo sobre desenvolvimento para Habbo.
+Thanks for visiting my GitHub! Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or want to chat about developing for Habbo.
